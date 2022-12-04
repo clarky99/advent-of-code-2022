@@ -63,7 +63,7 @@ public class Day2 {
     }
 
     private void solve() {
-        System.out.println(String.format("Q2 Output: %d", solve1refactor()));
+        System.out.println(String.format("Q1 Output: %d", solve1refactor()));
         System.out.println(String.format("Q2 Output: %d", solve2refactor()));
     }
 
